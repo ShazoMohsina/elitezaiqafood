@@ -1,2 +1,2 @@
-# elitezaiqafood.github.io
+# elitezaiqafood
 Elite Zaiqa Food website
